@@ -1,5 +1,6 @@
 # -grid-mondrian-composition-c
 <div align= "center">
-! <img src ="![Mondrian Composition c](https://github.com/user-attachments/assets/f92bfbc4-daad-4237-927b-1805cf500491)">
+
+![Mondrian Composition c](https://github.com/user-attachments/assets/2a959ce7-db8d-49ba-b01b-8750832cf996)
 
 </div>
